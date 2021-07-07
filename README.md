@@ -12,7 +12,7 @@ Includes information on more than 88,000 bombings, 19,000 assassinations, and 11
 Includes information on at least 45 variables for each case, with more recent incidents including information on more than 120 variables
 More than 4,000,000 news articles and 25,000 news sources were reviewed to collect incident data from 1998 to 2017 alone
 
-3.Project goals
+3. Project goals
 Read the source and do some quick research to understand more about the dataset and its topic
 Clean the data
 Perform Exploratory Data Analysis on the dataset
